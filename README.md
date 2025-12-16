@@ -62,7 +62,7 @@ In the subscription-based economy, acquiring a new customer is **5-25x more expe
 *Approximately 20% of the customer base churned. The imbalance was handled using class weighting in the model.*
 
 <div align="center">
-  <img src="images/churn_distribution.png" alt="Churn Pie Chart" width="500"/>
+  <img src="images/churn_distribution1.png" alt="Churn Pie Chart" width="500"/>
 </div>
 
 ---
